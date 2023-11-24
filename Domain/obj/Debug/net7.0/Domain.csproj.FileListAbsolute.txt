@@ -1,0 +1,23 @@
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\Domain\obj\Debug\net7.0\ref\Domain.dll

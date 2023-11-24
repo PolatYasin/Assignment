@@ -1,0 +1,30 @@
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\HttpClients\bin\Debug\net7.0\HttpClients.deps.json
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\HttpClients\bin\Debug\net7.0\HttpClients.dll
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\HttpClients\bin\Debug\net7.0\HttpClients.pdb
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\HttpClients\bin\Debug\net7.0\Domain.dll
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\HttpClients\bin\Debug\net7.0\Domain.pdb
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\HttpClients\obj\Debug\net7.0\HttpClients.csproj.AssemblyReference.cache
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\HttpClients\obj\Debug\net7.0\HttpClients.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\HttpClients\obj\Debug\net7.0\HttpClients.AssemblyInfoInputs.cache
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\HttpClients\obj\Debug\net7.0\HttpClients.AssemblyInfo.cs
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\HttpClients\obj\Debug\net7.0\HttpClients.csproj.CoreCompileInputs.cache
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\HttpClients\obj\Debug\net7.0\HttpClients.csproj.CopyComplete
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\HttpClients\obj\Debug\net7.0\HttpClients.dll
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\HttpClients\obj\Debug\net7.0\refint\HttpClients.dll
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\HttpClients\obj\Debug\net7.0\HttpClients.pdb
+C:\Users\kadir\Desktop\Ny mappe\1\GBE 7\DNP\Assignment12NEW\HttpClients\obj\Debug\net7.0\ref\HttpClients.dll
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\HttpClients\bin\Debug\net7.0\HttpClients.deps.json
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\HttpClients\bin\Debug\net7.0\HttpClients.dll
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\HttpClients\bin\Debug\net7.0\HttpClients.pdb
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\HttpClients\bin\Debug\net7.0\Domain.dll
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\HttpClients\bin\Debug\net7.0\Domain.pdb
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\HttpClients\obj\Debug\net7.0\HttpClients.csproj.AssemblyReference.cache
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\HttpClients\obj\Debug\net7.0\HttpClients.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\HttpClients\obj\Debug\net7.0\HttpClients.AssemblyInfoInputs.cache
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\HttpClients\obj\Debug\net7.0\HttpClients.AssemblyInfo.cs
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\HttpClients\obj\Debug\net7.0\HttpClients.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\HttpClients\obj\Debug\net7.0\HttpClients.csproj.CopyComplete
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\HttpClients\obj\Debug\net7.0\HttpClients.dll
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\HttpClients\obj\Debug\net7.0\refint\HttpClients.dll
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\HttpClients\obj\Debug\net7.0\HttpClients.pdb
+C:\Users\Yasin\Desktop\Okul\7. semester\DNP\ass3inspi\Assignment12NEW\Assignment12NEW\HttpClients\obj\Debug\net7.0\ref\HttpClients.dll
